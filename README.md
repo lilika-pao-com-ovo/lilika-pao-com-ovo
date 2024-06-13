@@ -1,16 +1,16 @@
-## Hi there 👋
+bem vindo!! 
+✨
 
-<!--
-**lilika-pao-com-ovo/lilika-pao-com-ovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou a lilika :)
 
-Here are some ideas to get you started:
+minhas principais atividades na plataforma estao atrelados á:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- aula do alura;
+- programaçao javascript
+- organizaçao e desenvolvimento pessoal em programaçao
+  !
+formas de contato: @mlepemper
+
+💗
+  
+  ![.](https://th.bing.com/th/id/R.b8ff64ad3ba744185bce4eba91161684?rik=pIIEisA%2f7Br3SQ&pid=ImgRaw&r=0)
